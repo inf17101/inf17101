@@ -7,7 +7,7 @@ I’m always trying to grow and learn something new. I lose track of time when I
 
 ### 👀 I’m interested in
 - Software Design Patterns
-- Software Devloping & Testing
+- Software Development & Testing
 - Network Security
 - Secure Design
 - Algorithms
