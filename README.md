@@ -14,7 +14,7 @@ I’m always trying to grow and learn something new. I lose track of time when I
 
 ### What I’m focusing on
 
-I want always improve my coding and automation skills and my knowledge about automated testing processes of todays software.
+I want always improve my coding and automation skills and my knowledge about automated testing processes to make things easier.
 Additionaly I keep focusing on Network Security Architectures and IT-Security Trends.
 
 <!---
