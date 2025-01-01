@@ -1,11 +1,17 @@
-### Hi, I’m Oliver Klapper👋
+### Hi, I’m Oliver Kral👋
 
-my passion is to automate manual activities through software programming and automation tools.
-I enjoy the variety between the use of existing tools and the creative expansion through custom code or programming tools to automate things by my own.
+My passion is software development and AI, especially computer vision and generative AI. I am enthusiastic about autonomous driving and the modern software-defined vehicle in the automotive sector.
+I like the variety between the use of existing technologies and the creative expansion through my own code or the application, fine-tuning and training of AI.
 
-I’m always trying to grow and learn something new. I lose track of time when I’m playing the violin, studying languages or tools or simply reading a good book.
+I’m always trying to grow and learn something new. I lose track of time when I’m playing the violin, studying technologies or tools or simply reading a good book.
 
 ### 👀 I’m interested in
+- Automotive sector (autonomous driving and software-defined vehicle concepts)
+- Embedded systems
+- Rust, C++, Python
+- Deep Learning
+- Computer Vision
+- Generative AI
 - Software Design Patterns
 - Software Development & Testing
 - Network Security
@@ -14,7 +20,7 @@ I’m always trying to grow and learn something new. I lose track of time when I
 
 ### What I’m focusing on
 
-I want always improve my coding and automation skills and my knowledge about automated testing processes to make things easier.
+I want always improve my coding and automation skills and my knowledge about AI like deep learning, computer vision and more.
 Additionaly I keep focusing on Network Security Architectures and IT-Security Trends.
 
 <!---
