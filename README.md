@@ -20,8 +20,8 @@ I’m always trying to grow and learn something new. I lose track of time when I
 
 ### What I’m focusing on
 
-I want always improve my coding and automation skills and my knowledge about AI like deep learning, computer vision and more.
-Additionaly I keep focusing on Network Security Architectures and IT-Security Trends.
+I want always improve my coding and automation skills and my knowledge about AI like deep learning, generative AI and more.
+Additionaly I look beyond code being hack coach at hackathon events and doing presentations at stage.
 
 <!---
 inf17101/inf17101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
